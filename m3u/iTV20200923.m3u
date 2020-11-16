@@ -229,8 +229,6 @@ rtsp://172.23.3.138/PLTV/101/224/3221226932/10000100000000060000000005240440_0.s
 rtsp://172.23.3.138/PLTV/101/224/3221226971/10000100000000060000000005240441_0.smil
 #EXTINF:-1 ,动画（测试）
 rtsp://172.23.3.138/PLTV/101/224/3221226934/10000100000000060000000005240442_0.smil
-#EXTINF:-1 ,====== iRet = Authentication.CTCSetConfig ('Channel','ChannelID="1094",ChannelName="精彩导视",UserChannelID="182",ChannelURL="igmp://235.254.197.127:7980",TimeShift="0",TimeShiftLength="0",ChannelSDP="igmp://235.254.197.127:7980",TimeShiftURL="",ChannelType="1",IsHDChannel="2",PreviewEnable="1",ChannelPurchased="1",ChannelLocked="0",ChannelLogURL="",PositionX="null",PositionY="null",BeginTime="null",Interval="null",Lasting="null",ActionType="1",FCCEnable="2",ChannelFECPort="0",ChannelFCCIP="172.23.3.138",ChannelFCCPort="8027"'); ======
-http://0/0.m3u8
 #EXTINF:-1 ,好学生（测试）
 rtsp://172.23.3.138/PLTV/101/224/3221226938/10000100000000060000000005240447_0.smil
 #EXTINF:-1 ,鉴赏（测试）
